@@ -1,4 +1,4 @@
-This is a project for metacrafters solidity beginner course where this project is for creating a token.
+This is my project for metacrafters solidity beginner course where this project is for creating a token.
 
 contract Valorant 
 
