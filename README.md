@@ -1,3 +1,5 @@
+This is a project for metacrafters solidity beginner course where this project is for creating a token.
+
 contract Valorant 
 
 Defines a new contract named Valorant, which will encapsulate all the functionality for this token.
